@@ -1,4 +1,6 @@
 45days-fitness
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+A record of my '45days-fitness' plan.
+To encourage more girls to form a health habbit.
+Come on!!!
