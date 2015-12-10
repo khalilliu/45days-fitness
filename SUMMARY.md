@@ -2,5 +2,9 @@
 
 * [Introduction](README.md)
 * [Day 1](day1.md)
-* [Second Chapter](chapter2.md)
+* [Day 2](day2.md)
+* [Day 3](day3.md)
+* [Day 4](day4.md)
+* 
+* 
 
